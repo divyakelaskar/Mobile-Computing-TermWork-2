@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TermWork 2 : Phonebook</string>
+    <string name="eg_mickey">Eg., Mickey Mouse.</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="phone_no">"Phone No : "</string>
+    <string name="name">"Contact Name :"</string>
+    <string name="eg_number">Eg., 1234567890.</string>
+    <string name="read">Read</string>
+    <string name="create">Create</string>
+    <string name="name_of_contact">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+</resources>
