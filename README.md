@@ -8,7 +8,24 @@
 </div>
 
 ## 🚀 Installation :
-You can download the Phone Book App `.apk` file from the [Releases](https://github.com/divyakelaskar/Mobile-Computing-TermWork-2/releases) Tab.
+### Step 1: Clone the Repository
+```
+git clone https://github.com/your-username/PhoneBook-App.git
+```
+### Step 2: Open in Android Studio
+
+Open the project in Android Studio by selecting "Open an existing Android Studio project" and navigating to the cloned repository.
+
+### Step 3: Build and Run
+
+Click on the "Run" button in Android Studio to build and run the app on your connected Android device or emulator.
+
+> [!NOTE]
+> Make sure you have the latest version of Android Studio installed along with the necessary SDKs.
+
+### Step 4: Explore PhoneBook App
+
+Once the app is installed and running, you're all set!
 
 ## 📱🔍 Overview :
 **Main Screen:** 
